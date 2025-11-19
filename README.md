@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on bug removal automation<br>🌱 I’m currently learning python and libraries<br>💬 Ask me about full stack development
+🔭 I’m currently working on Nepal Tourism Recommendation System<br>🌱 I’m currently learning python and libraries<br>💬 Ask me about full stack development
 
 
 ## 🌐 Socials:
