@@ -1,6 +1,6 @@
 # Hi, I'm Biplab Neupane 👋
 
-Full-Stack Software Engineer · WordPress & PHP · Kathmandu, Nepal
+Full-Stack Software Engineer  · Kathmandu, Nepal
 
 ## About Me
 
